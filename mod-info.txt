@@ -1,0 +1,7 @@
+[mod]
+title: United Rusted Coalitions
+
+description_ru:Тут потом будет чтo то
+minVersion:1.15p9
+
+

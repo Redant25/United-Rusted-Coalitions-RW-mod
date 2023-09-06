@@ -1,0 +1,7 @@
+[global_resource_power]
+
+displayName: E
+displayNameShort: E
+hidden: false
+priority: 1
+displayColor: yellow
