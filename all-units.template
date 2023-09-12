@@ -5,3 +5,17 @@ displayNameShort: E
 hidden: false
 priority: 1
 displayColor: yellow
+
+
+
+------LtMancy---------
+
+[hiddenAction_soul]
+autoTriggerOnEvent: destroyed
+requireConditional: if not self.tags(includes="Lt")
+spawnUnits:Soul
+
+[resource_raise]
+displayName: raise
+displayRoundedDown:true
+hidden:true
